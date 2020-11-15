@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://shweb.me">
-    <img alt="WPSpark" src="./src/images/logo.png" width="200" />
+    <img alt="SHWeb" src="./src/images/logo.png" width="200" />
   </a>
 </p>
 
@@ -79,5 +79,4 @@ npm install -g gatsby-cli
     npm run clean
     gatsby build infointeriors
     ```
-
 <!-- AUTO-GENERATED-CONTENT:END -->
