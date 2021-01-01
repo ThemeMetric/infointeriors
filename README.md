@@ -73,10 +73,13 @@ npm install -g gatsby-cli
 
 5)  **Build Process.**
 
-    To build your site run bellow command from your terminal.
+        To build your site run bellow command from your terminal.
 
-    ```infointeriors
-    npm run clean
-    gatsby build infointeriors
-    ```
-<!-- AUTO-GENERATED-CONTENT:END -->
+        ```infointeriors
+        npm run clean
+        gatsby build infointeriors
+        ```
+
+    <!-- AUTO-GENERATED-CONTENT:END -->
+
+// post updated
