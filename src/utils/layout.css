@@ -80,6 +80,9 @@ a {
     .content.is-medium {
         font-size: 18px;
     }
+	  .image.is-3by1 img {
+    height: auto !important;
+  }
 }
 
 @media screen and (max-width: 640px) {
@@ -87,6 +90,9 @@ a {
     .title.is-4 {
         font-size: 14px;
     }
+	  .image.is-3by1 img {
+    height: auto !important;
+  }
 
 }
 
@@ -94,6 +100,9 @@ a {
     .title.is-4 {
         font-size: 14px;
     }
+	  .image.is-3by1 img {
+    height: auto !important;
+  }
 
 }
 
@@ -101,4 +110,7 @@ a {
     .title.is-4 {
         font-size: 12px;
     }
+	  .image.is-3by1 img {
+    height: auto !important;
+  }
 }
