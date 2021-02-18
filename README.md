@@ -82,4 +82,4 @@ npm install -g gatsby-cli
 
     <!-- AUTO-GENERATED-CONTENT:END -->
 
-// published new post
+// one more
