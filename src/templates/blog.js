@@ -17,9 +17,9 @@ class BlogPage extends Component {
     return (
         <Layout wordpressSiteMetadata={this.props.pageContext.wordpressSiteMetadata}>
         	
-          <SEO title="Welcome" />
+          <SEO title="infointeriors" />
 
-        	<AllPost data={allPosts.edges} ignorefirst="false"/>
+        	<AllPost data={allPosts.edges} ignorefirst="true"/>
 
           <AllPostPagination prev={prev} next={next} pageCount={numberOfPostsPerPages}/>
 

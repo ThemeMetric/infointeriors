@@ -15,7 +15,7 @@ class CategoryPage extends Component {
     return (
         <Layout wordpressSiteMetadata={this.props.pageContext.wordpressSiteMetadata}>
         
-        	<SEO title="Category Page" />
+        	<SEO title={category.name} />
         	
         	<PageTitle title={category.name} subtitle={category.description} />
 
