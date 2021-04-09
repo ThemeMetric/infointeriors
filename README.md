@@ -82,4 +82,4 @@ npm install -g gatsby-cli
 
     <!-- AUTO-GENERATED-CONTENT:END -->
 
-// one more
+// New post for webp
